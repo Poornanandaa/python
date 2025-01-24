@@ -1,0 +1,11 @@
+li=["Mango","Watermelon","Pineapple", "Orange", "Coconut"]
+print(li)
+print(len(li))
+print(li[2])
+print(li[-1])
+(li.append("Strawberries"))
+print(li)
+(li.remove("Coconut"))
+print(li)
+(li.clear)
+print(li)
