@@ -1,5 +1,5 @@
 class Shape:
-    def __init__(self, type)
+    def __init__(self, type):
         self._type = type
     def area(self):
         return 0
